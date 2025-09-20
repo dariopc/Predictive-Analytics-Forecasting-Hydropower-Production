@@ -1,2 +1,3 @@
-# Predictive-Analytics-Forecasting-Hydropower-Production
-Forecasting Hydropower Production in Switzerland Using Time Series Models and Weather-Driven Exogenous Variables
+# Predictive Analytics: Forecasting Hydropower Production
+
+This repository contains the R code for a forecasting study on monthly hydropower production in Switzerland. The project explores how well different time series approaches can predict future production and whether forecast accuracy improves when incorporating weather-driven exogenous variables such as temperature, solar radiation, and reservoir levels. Several models were implemented, including exponential smoothing, ARIMA, and dynamic regression, with the latter offering the best performance. The results show that adding meteorological and reservoir indicators significantly enhances predictive accuracy, and the final model provides reliable forecasts for 2025.
